@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Desenvolvedor Back-End Node js.
+Desenvolvedor  Node React e React Native
 
 A cada dia supero mas um desafio em busca do meu objetivo. 
 
-estudando Node React e React Native
+
 <!--
 **HigorMatheus/HigorMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
