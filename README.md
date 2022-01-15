@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Desenvolvedor  Node React e React Native
+Desenvolvedor  React e React Native
 
 A cada dia supero mas um desafio em busca do meu objetivo. 
 
